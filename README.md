@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mographr is an AI motion‑graphics studio that transforms textual descriptions into production‑ready animated videos. Users can generate lower‑thirds, title cards, chart reveals, and logo animations with real typography, exportable in MP4 or transparent formats. The desktop app runs locally on GPU, offering free usage and customizable branding through design systems.
+Mographr is an AI motion‑graphics studio that turns written descriptions into production‑ready animation. Users can generate lower‑thirds, title cards, chart reveals, and other kinetic typography graphics, exporting MP4, WebM with alpha, or ProRes 4444. The free desktop app runs locally, leveraging user‑provided AI models such as Claude, Codex, or Antigravity, and offers an MCP server for integration with chat assistants. Enterprise plans add premium support, NLE plugins, collaboration, cloud rendering, and SSO.
 
-**Areas:** AI · MotionGraphics · VideoGeneration · DesignSystems · DesktopApp
+**Areas:** AI · Motion Graphics · Video Generation · Desktop App · Creative Tools
 
 ## Mographr on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Mographr is published on APIs.io rather than in this rep
 
 ### APIs (1)
 
-- [Mographr API](https://apis.io/apis/mographr-com/mographr-api/) — API for Mographr motion graphics generation
+- [Mographr API](https://apis.io/apis/mographr-com/mographr-api/) — Integration API for Mographr MCP server
 
 ### Published properties
 
@@ -97,8 +97,8 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.mographr.com/)
-- [Documentation](https://www.mographr.com/mcp)
-- [Getting started](https://www.mographr.com/download)
+- [Documentation](https://www.mographr.com/mcp.md)
+- [API reference](https://bff.mographr.com/tools)
 - [Pricing](https://www.mographr.com/pricing)
 - [Support](https://www.mographr.com/contact)
 - [Terms of service](https://www.mographr.com/terms)
@@ -106,15 +106,15 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.0** — emerging · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 16.5** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 56.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 26.2 |
+| Developer ergonomics | 21.4 |
 | Access clarity | 40.9 |
 
 **Agent readiness 3.1** — human-only
@@ -144,7 +144,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — AI & Biometrics
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mographr-com/](https://apis.io/providers/mographr-com/).
 
